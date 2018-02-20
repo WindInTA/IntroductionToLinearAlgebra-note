@@ -1,5 +1,5 @@
 ---
-title: "微信投放策略优化"
+title: "wx投放策略优化"
 author: "bourneli"
 date: "2016年8月26日"
 output: html_document
